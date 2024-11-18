@@ -1,5 +1,9 @@
 # Encurtador de URLs
 
+Esse projeto usa o NestJS.
+Para tudo funcionar, instale o nest a partir do npm conforme a documentação:
+(https://docs.nestjs.com/cli/overview)[Documentação do NestJS]
+
 ## Para encurtar
 ```bash
 curl --request GET \
