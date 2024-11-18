@@ -2,7 +2,7 @@
 
 Esse projeto usa o NestJS.
 Para tudo funcionar, instale o nest a partir do npm conforme a documentação:
-(https://docs.nestjs.com/cli/overview)[Documentação do NestJS]
+[Documentação do NestJS](https://docs.nestjs.com/cli/overview)
 
 ## Para encurtar
 ```bash
